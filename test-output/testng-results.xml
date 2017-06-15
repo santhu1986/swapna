@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10092" started-at="2017-06-01T01:41:30Z" finished-at="2017-06-01T01:41:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10092" started-at="2017-06-01T01:41:30Z" finished-at="2017-06-01T01:41:40Z">
+      <class name="com.ranfordbank.master.Pom">
+        <test-method status="PASS" signature="lgn()[pri:0, instance:com.ranfordbank.master.Pom@76fa4dab]" name="lgn" duration-ms="10043" started-at="2017-06-01T07:11:30Z" finished-at="2017-06-01T07:11:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lgn -->
+      </class> <!-- com.ranfordbank.master.Pom -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

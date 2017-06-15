@@ -1,0 +1,5 @@
+EmployeeName###LoginPassword###Role###Branch###Results
+Employee0011@@@Employee001pwd%%%Cashier###1112###Employee Created
+Employee0021@@@Employee002pwd%%%Cashier###1112###Employee Created
+Employee0031@@@Employee003pwd%%%Cashier###1112###Employee Created
+Employee0041@@@Employee004pwd%%%Cashier###1112###Employee Created
